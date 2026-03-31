@@ -2,7 +2,7 @@
 
 📌 Overview
 
-In this project, I analyzed customer churn and retention patterns to understand why customers leave and what drives long-term engagement. The goal was to generate actionable insights that support business growth and customer retention strategies.
+In this project, I analyzed customer churn and retention patterns to understand why customers leave and what drives long-term engagement. 
 
 🎯 Objectives
 Identify key drivers of customer churn
@@ -30,14 +30,3 @@ Target high-risk segments with retention strategies
 📁 Files Included
 Power BI Dashboard (.pbix)
 Dashboard Preview
-
-
-🚀 Task 2 Requirements (What I Delivered)
-
-For this task, I focused on delivering a business-oriented churn analysis by;
-
-Cleaning and preparing customer data
-Analyzing churn rates and retention trends
-Segmenting customers by tenure, contract, and behavior
-Identifying key churn drivers and retention factors
-Presenting insights through a dashboard and business recommendations
